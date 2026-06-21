@@ -1,4 +1,5 @@
 streamlit
-aisuite
 arxiv
+aisuite
 pydantic
+docstring_parser
