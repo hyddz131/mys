@@ -1,5 +1,3 @@
 streamlit
 arxiv
-aisuite
-pydantic
-docstring_parser==0.15
+openai
