@@ -2,4 +2,4 @@ streamlit
 arxiv
 aisuite
 pydantic
-docstring_parser
+docstring_parser==0.15
